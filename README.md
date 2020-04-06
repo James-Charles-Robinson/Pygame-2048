@@ -10,4 +10,6 @@ perform very well, barley ever reaching 2048. Ai2 however, reaches 2048 about 80
 The settings of Ai2 can be changed to adjust the speed and skill however the defualts in my opinion are the best. This Ai is activated by pressing 2. To stop the Ai press 0.
 ## Ai2 example
 This video has been sped up, showing a standard game using Ai2.
+Ai2 uses Monte-Carlo (MC) Move Evaluation to determine the best next move.
+
 ![](Ai2.gif)
