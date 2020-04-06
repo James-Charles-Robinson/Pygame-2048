@@ -9,4 +9,4 @@ It tries to keep the largest tile at the top left and only press the left and up
 perform very well, barley ever reaching 2048. Ai2 however, reaches 2048 about 80% of the time, although takes much longer, about 3 mins.
 The settings of Ai2 can be changed to adjust the speed and skill however the defualts in my opinion are the best. This Ai is activated by pressing 2. To stop the Ai press 0.
 ## Ai2 example
-![](Ai2 - 2048.gif)
+![](Ai2.gif)
