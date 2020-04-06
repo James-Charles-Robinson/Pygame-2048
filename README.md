@@ -13,3 +13,6 @@ This video has been sped up, showing a standard game using Ai2.
 Ai2 uses Monte-Carlo (MC) Move Evaluation to determine the best next move.
 
 ![](Ai2.gif)
+
+## What Have I learnt?
+With this new project I really tried to improve on my last pygame project, noughts and crosses (NAC or X's and O's). In my opinion 2048 is a more complex game so being able to produce a working version of the game with less bugs then NAC in by far less lines of code shows my improvement over the last few months. I atribute this to my increased awareness of more complex python functions, such as "enumerate" and classes, allowed me to make more clean and efficient code. Although my code of course isn't perfect, it's real improvement. Additionally I am quite impressed with my speed with this project compared to NAC, taking only 1 day to plan and create compared to the week and so for NAC. Although no new modules were learnt on this project, i think my general skills improved drastically.
