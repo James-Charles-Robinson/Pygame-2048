@@ -1,6 +1,6 @@
 import pygame
 import time
-import threading
+import random
 
 # Class for the board and calculations todo with the game
 class Board():
